@@ -1,11 +1,11 @@
 
 TITLE: 
-Moon - 100% Fully Responsive Multipurpose HTML5 Bootstrap 4 Template
+Evia - Counselling Website - Fully Responsive HTML5 Bootstrap 4
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
+Site4U - DESIGNED & DEVELOP
 
-Websites: https://gettemplates.co http://freehtml5.co/
+Websites: http://ster.site/site4u/
 
 
 CREDITS:
